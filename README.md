@@ -1,5 +1,9 @@
 # OpenPose_dependencies
-Here is the link for the `3rdparty` and `models` folders in the OpenPose library. Replace the `openpose/3rdparty` and `openpose/models` folders entirely.
+Here is the link for the `3rdparty` and `models` folders in the OpenPose library:
+
+[OpenPose Dependencies](https://1drv.ms/u/s!AnrMnbcjJgECo4UTVRJ5Un1xvcuQDA?e=DU3d1g)
+
+Replace the `openpose/3rdparty` and `openpose/models` folders entirely.
 
 My configuration:
 - Windows 11
